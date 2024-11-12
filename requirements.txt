@@ -1,0 +1,5 @@
+pandas
+plotly
+scipy
+seaborn
+streamlit
